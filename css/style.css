@@ -1,13 +1,13 @@
+.a {
+  text-decoration: none;
+}
+.ul {
+  list-style: none;
+}
 .body{
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #FFFFFF;
-}
-.p{
-font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
 }
 
 .a{
@@ -117,8 +117,7 @@ background-color: #F4F4FD
   text-transform: capitalize;
   color: #2e2f42;
 }
-.ul-our-team{
-}
+
 .image{
     background-color: #FFFFFF;
     
